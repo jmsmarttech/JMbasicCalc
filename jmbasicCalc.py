@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
-#calculadora com comandos basicos, projeto pequeno, para outro maior.
+#calculadora com comandos basicos, projeto pequeno, para outro maior @jmsmarttech
 #pt-br
 
 c1 = "#1c1c1c"
